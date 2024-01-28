@@ -1,0 +1,1 @@
+print("If everything is all okay")
