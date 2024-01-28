@@ -1,2 +1,3 @@
 print("If everything is all okay")
-print ("checking for version")
+print ("checking for version...")
+pip install dvc
